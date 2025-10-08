@@ -19,5 +19,5 @@ def listar_clientes():
       print(f'Cliente: {cliente}')
 
 # Executa a função principal apenas se o arquivo for executado diretamente
-if __name__ == '__main__':
+if __name__ == '__main__': 
    listar_clientes()
