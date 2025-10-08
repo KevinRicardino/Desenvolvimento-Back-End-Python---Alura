@@ -185,7 +185,7 @@ def main():
     '''
     os.system('cls')
     exibir_nome_do_programa()
-    exibir_opcoes()
+    exibir_opcoes() 
     escolher_opcao()
 
 if __name__ == '__main__':
