@@ -7,8 +7,6 @@ Para isso, ela precisa escrever um programa que percorra a lista de nomes e exib
 
 Ajude Ana a decidir entre usar um laço for ou while. Escreva o programa usando o laço que você acredita 
 ser mais adequado para essa tarefa e explique por que escolheu esse laço.
-
-Compartilhe sua opinião e resolução no nosso fórum!
 '''
 
 def listar_clientes():
