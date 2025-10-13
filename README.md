@@ -1,19 +1,36 @@
-# Desenvolvimento-Back-End-Python---Alura - App de Gerenciamento de Restaurantes
+# Desenvolvimento Back End Python - Alura
 
-Este é um projeto desenvolvido como parte do curso **Desenvolvimento Back-End Python** da **Alura**.  
-O aplicativo permite gerenciar restaurantes, incluindo cadastro, listagem e ativação/desativação.
+Repositório de estudos do curso **Desenvolvimento Back End Python Completo** da Alura.
 
-## Funcionalidades
+---
 
-- Exibir o nome do programa em arte ASCII
-- Cadastrar novos restaurantes
-- Listar restaurantes existentes com status (ativo/desativado)
-- Alternar o estado de um restaurante
-- Opções de menu interativo no terminal
+## 📖 Sobre o curso
+Este curso aborda desde conceitos básicos até práticas avançadas de **Back End com Python**, incluindo:
 
-## Tecnologias
+- Fundamentos de Python aplicados ao desenvolvimento de Back End.
+- Estruturas de dados e manipulação de arquivos.
+- Criação de APIs e integração com bancos de dados.
+- Boas práticas de programação e testes automatizados.
+- Deploy e manutenção de aplicações Python.
 
-- Python 3
-- Estruturas de dados: listas e dicionários
-- Manipulação de terminal com `os.system('cls')`
-- Controle de fluxo com funções e loops
+---
+
+## 💻 Tecnologias e ferramentas
+- **Linguagem:** Python 3.x  
+- **Frameworks:** Flask / FastAPI (dependendo do módulo do curso)  
+- **Banco de dados:** SQLite / PostgreSQL / MySQL  
+- **Ferramentas:** Git, VSCode, Postman  
+
+---
+
+## 📝 Conteúdo aprendido
+Durante o curso, os principais tópicos estudados incluem:
+
+1. Sintaxe e estruturas básicas do Python
+2. Funções, classes e orientação a objetos
+3. Manipulação de arquivos e persistência de dados
+4. Criação e consumo de APIs REST
+5. Conexão com bancos de dados
+6. Tratamento de erros e logs
+7. Testes unitários e integração
+8. Deploy de aplicações Back End  
