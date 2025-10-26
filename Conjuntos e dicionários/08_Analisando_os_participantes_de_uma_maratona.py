@@ -44,7 +44,7 @@ Saída esperada:
 
 def idade_valida(valor):
     '''
-    Verifica se o valor digitado é um númeor inteiro positivo.
+    Verifica se o valor digitado é um número inteiro positivo.
     '''
     return valor.isdigit() and int(valor) > 0
 
@@ -116,5 +116,6 @@ def main():
     participantes = obter_participantes()
     exibir_informacoes(participantes)
 
+# Executa a função apenas se o arquivo for chamado diretamente
 if __name__ == '__main__':
     main()
